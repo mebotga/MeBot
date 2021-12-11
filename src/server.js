@@ -295,7 +295,7 @@ console.clear();
 console.log(`
       [===========================================]
                        mebot.ga
-                 Developed by getto
+                 Developed by ALPH
                  System Loading...
       [===========================================]
       `)
