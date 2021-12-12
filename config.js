@@ -40,6 +40,7 @@ module.exports = {
     channels: {
       codelog: "", 
       webstatus: "",
+      login: "",
       uptimelog: ""
     }
   }
