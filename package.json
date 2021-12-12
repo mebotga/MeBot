@@ -1,6 +1,6 @@
 {
   "name": "MeBot",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "description": "mebot.ga",
   "main": "index.js",
   "scripts": {
