@@ -214,7 +214,7 @@ module.exports = async (client) => {
     req.session.destroy(() => {
       res.json({
         login: false,
-        message: "You have been blocked from MeBot.",
+        message: "You have been blocked from MeBot",
         logout: true
       })
       req.logout();
